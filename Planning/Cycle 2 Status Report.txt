@@ -1,0 +1,7 @@
+Completed all tasks in Cycle 2. The Centipede now spawns at the top of each level,
+and works its way down. The centipede splits on death, and restarts the level if the
+hero dies. It "bounces" off walls and mushrooms, which can be destroyed with 4 shots.
+Each shot makes the mushroom smaller.
+
+Known bug:
+When two segments of the centipede end up on top of each other, they delete each other.

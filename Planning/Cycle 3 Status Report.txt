@@ -1,0 +1,11 @@
+Everything for this cycle is updated. The player can now pick up three different types
+of guns. These guns can only be found in level 1. In addition when all of the segments of
+the centipede have been destroyed the next level loads. The above actions run perfectly.
+In addition three new enemies have been inplemented. These enemies work, however their
+speed does not match the speed of the other Instances on the screen. For example the
+player character moves at a speed of 2 pixels per frame, whereas the enemies that we have
+implemented move at half that speed. Despite this difference, the enemies appear to move
+faster and cause multiple images to appear on screen per frame. We are unsure as to the
+cause of this bug, and plan to look into it closer on monday. This has also caused the
+game to slow down considerably, making it very difficult to bug test the second half of
+this cycle. (It took 4 hours to finish the whole thing. )

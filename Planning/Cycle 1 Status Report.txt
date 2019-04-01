@@ -1,0 +1,15 @@
+Cycle 1 report:
+We each spent a few hours working on the current deliverable. Our current
+project includes three different levels that can be loaded from files. These
+levels can be switched between when you press the U and D keys. In addition
+the player character can be moved using the arrow keys. As of now the levels
+only contain non-poisoned mushrooms, which have no character collision.
+
+
+Player: Game player that could move both horizontally and vertically.
+MushRoom: eliminate it will increase game points. Mushrooms will also block character moves.
+Scorpion: Enemy that move horizontally and turn the mushroom into poisoned mushroom.
+Flea: Enemy that will drop Mushrooms as it move from top to bottom.
+Spider: move within a rectangular box with bouncing pattern.
+Centipede: Enemy that moves from top to bottom with a long body. Mushrooms acts like roadblocks for Centipedes.
+Weapons: Player could equip with different kinds of weapons which is droped randomly to the playground.
